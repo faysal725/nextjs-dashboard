@@ -1,4 +1,4 @@
-current lesson: https://nextjs.org/learn/dashboard-app/setting-up-your-database
+current lesson: https://nextjs.org/learn/dashboard-app/fetching-data
 full code: https://github.com/vercel/next-learn/tree/main/dashboard/starter-example
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
